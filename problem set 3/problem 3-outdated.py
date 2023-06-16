@@ -64,64 +64,64 @@ def comma(a):
        d=int(d)   
        if   m=="January":   
             if   d<10:
-               print(f"YYYY-MM-DD :-01-0{d}")
+               print(f"YYYY-MM-DD :{y}-01-0{d}")
             else:
-               print(f"YYYY-MM-DD :-01-{d}")
+               print(f"YYYY-MM-DD :{y}-01-{d}")
        elif   m=="February":
             if   d<10:
-               print(f"YYYY-MM-DD :-02-0{d}")
+               print(f"YYYY-MM-DD :{y}-02-0{d}")
             else:
-               print(f"YYYY-MM-DD :-02-{d}")
+               print(f"YYYY-MM-DD :{y}-02-{d}")
        elif   m=="March":
             if   d<10:
-               print(f"YYYY-MM-DD :-03-0{d}")
+               print(f"YYYY-MM-DD :{y}-03-0{d}")
             else:
-               print(f"YYYY-MM-DD :-03-{d}")
+               print(f"YYYY-MM-DD :{y}-03-{d}")
        elif   m=="April":
             if   d<10:
-               print(f"YYYY-MM-DD :-04-0{d}")
+               print(f"YYYY-MM-DD :{y}-04-0{d}")
             else:
-               print(f"YYYY-MM-DD :-04-{d}")
+               print(f"YYYY-MM-DD :{y}-04-{d}")
        elif   m=="May":
             if   d<10:
-               print(f"YYYY-MM-DD :-05-0{d}")
+               print(f"YYYY-MM-DD :{y}-05-0{d}")
             else:
-               print(f"YYYY-MM-DD :-05-{d}")
+               print(f"YYYY-MM-DD :{y}-05-{d}")
        elif   m=="June":
             if   d<10:
-               print(f"YYYY-MM-DD :-06-0{d}")
+               print(f"YYYY-MM-DD :{y}-06-0{d}")
             else:
-               print(f"YYYY-MM-DD :-06-{d}")
+               print(f"YYYY-MM-DD :{y}-06-{d}")
        elif   m=="July":
             if   d<10:
-               print(f"YYYY-MM-DD :-07-0{d}")
+               print(f"YYYY-MM-DD :{y}-07-0{d}")
             else:
-               print(f"YYYY-MM-DD :-07-{d}")
+               print(f"YYYY-MM-DD :{y}-07-{d}")
        elif   m=="August":
             if   d<10:
-               print(f"YYYY-MM-DD :-08-0{d}")
+               print(f"YYYY-MM-DD :{y}-08-0{d}")
             else:
-               print(f"YYYY-MM-DD :-08-{d}")
+               print(f"YYYY-MM-DD :{y}-08-{d}")
        elif   m=="September":
             if   d<10:
-               print(f"YYYY-MM-DD :-09-0{d}")
+               print(f"YYYY-MM-DD :{y}-09-0{d}")
             else:
-               print(f"YYYY-MM-DD :-09-{d}")
+               print(f"YYYY-MM-DD :{y}-09-{d}")
        elif   m=="Octobor":
             if   d<10:
-               print(f"YYYY-MM-DD :-10-0{d}")
+               print(f"YYYY-MM-DD :{y}-10-0{d}")
             else:
-               print(f"YYYY-MM-DD :-10-{d}")
+               print(f"YYYY-MM-DD :{y}-10-{d}")
        elif   m=="November":
             if   d<10:
-               print(f"YYYY-MM-DD :-11-0{d}")
+               print(f"YYYY-MM-DD :{y}-11-0{d}")
             else:
-               print(f"YYYY-MM-DD :-11-{d}")
+               print(f"YYYY-MM-DD :{y}-11-{d}")
        elif   m=="December":
             if   d<10:
-               print(f"YYYY-MM-DD :-12-0{d}")
+               print(f"YYYY-MM-DD :{y}-12-0{d}")
             else:
-               print(f"YYYY-MM-DD :-12-{d}")
+               print(f"YYYY-MM-DD :{y}-12-{d}")
 
 
 
